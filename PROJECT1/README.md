@@ -162,7 +162,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 *Your Name*
-- GitHub: [@shreyasi-pixel](https://github.com/shreyasi-pixel)
+- GitHub: [@my-username(https://github.com/shreyasit3-pixel )
 - LinkedIn: [shreyasi-pixel](https://linkedin.com/in/shreyasi-pixel)
   
 
